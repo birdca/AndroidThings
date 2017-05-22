@@ -4,6 +4,7 @@ Use [GPIO](https://developer.android.com/things/sdk/pio/gpio.html) to flowing th
   - Connecting **green** to **BCM17**
   - Connecting **yellow** to **BCM27**
 by following [Raspberry Pi 3 Model B I/O Pinout](https://developer.android.com/things/hardware/raspberrypi-io.html)
+![Schematics for Raspberry Pi 3](ThreeLedsLightOn/ThreeLedsLightOn.png)
 
 ##### Reference:
 - [Raspberry Pi 3](https://developer.android.com/things/hardware/raspberrypi.html)

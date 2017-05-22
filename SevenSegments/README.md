@@ -1,5 +1,6 @@
 # Seven Segment
 Use [GPIO](https://developer.android.com/things/sdk/pio/gpio.html) count down number from F to 0.
+![Schematics for Raspberry Pi 3](SevenSegments/SevenSegments.png)
 
 ##### Reference:
 - [Raspberry Pi 3](https://developer.android.com/things/hardware/raspberrypi.html)
